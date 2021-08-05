@@ -7,6 +7,7 @@ After that you send him photo you would like to host on your profile on imgbb.co
 
 Docker building
 ```docker build -t imghostbot .\Image-Hosting-TelegramBot\ ```
+
 ``` docker run --restart always imghostbot```
 
 If by any chance Bot runs into unexpected errors and breaks docker will automatically restart it with ```--restart always``` attribute
