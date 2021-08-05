@@ -6,6 +6,7 @@ When starting Bot you send ```/start``` command **only once** after that Bot wil
 After that you send him photo you would like to host on your profile on imgbb.com.
 
 Docker building
+
 ```docker build -t imghostbot .\Image-Hosting-TelegramBot\ ```
 
 ``` docker run --restart always imghostbot```
