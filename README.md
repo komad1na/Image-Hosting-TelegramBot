@@ -1,7 +1,5 @@
 # Image Hosting TelegramBot
 
-![Image of Yaktocat](https://travis-ci.com/komad1na/Image-Hosting-TelegramBot.svg?branch=main)
-
 Telegram Bot created in Python that you can interact with by sending command to take photo and uploads it to imgbb.com and gives back link.
 
 When starting/restarting Bot you send ```/start``` command **only once** after that Bot will ask you to send him ```/Upload_picture``` command.
