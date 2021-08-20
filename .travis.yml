@@ -4,4 +4,4 @@ install:
 language: python
 python: 
   - 3.9
-script: python3 uploadpicturebot-en.py
+script: python3 uploadpicturebot-en.py build --plat-name=win-amd64
