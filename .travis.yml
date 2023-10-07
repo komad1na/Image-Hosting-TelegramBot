@@ -1,7 +1,0 @@
---- 
-install: 
-  - "pip install -r requirements.txt"
-language: python
-python: 
-  - 3.9
-script: python3 uploadpicturebot-en.py
